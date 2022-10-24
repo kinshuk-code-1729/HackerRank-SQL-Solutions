@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/90320839/197406623-8bfb8811-83ad-4932-9532-e4cf84f826fa.png)
 
-## ***SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.***
+## *SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system.*
 
 # ✨ About HackerRank 📈 :
 ![image](https://user-images.githubusercontent.com/90320839/197406885-eb1d4898-f95b-4079-9f99-c6a411a80ca4.png)
