@@ -11,28 +11,4 @@
 - **HackerRank is very good for beginners so even if you want to print your first program “Hello World!” then definitely HackerRank gives this opportunity to you.**
 - **It has a pretty good UI with boilerplate code pre-written that helps beginners to start competitive coding.**
 
-    H    
-   HHH   
-  HHHHH  
- HHHHHHH 
-HHHHHHHHH
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHHHHHHHHHHHHHHHHHHHHHH   
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-  HHHHH               HHHHH             
-                    HHHHHHHHH 
-                     HHHHHHH  
-                      HHHHH   
-                       HHH    
-                        H     
+![image](https://github.com/kinshuk-code-1729/HackerRank-SQL-Solutions/assets/90320839/cbd55382-02c3-4006-bd3f-8ad7c184e95b)
